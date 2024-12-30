@@ -22,13 +22,6 @@ Cloud security is the process of ensuring that assets stored in the cloud are pr
 
 Programming is a process that can be used to create a specific set of instructions for a computer to execute tasks. These tasks can include:
 
-
-
-
-
-
-
-
 #Connect and Protect Network and Network Security
 ##Module 2
 -PROXY SERVER
