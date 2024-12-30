@@ -22,8 +22,8 @@ Cloud security is the process of ensuring that assets stored in the cloud are pr
 
 Programming is a process that can be used to create a specific set of instructions for a computer to execute tasks. These tasks can include:
 
-#Connect and Protect Network and Network Security
-##Module 2
+# Connect and Protect Network and Network Security
+## Module 2
 -PROXY SERVER
  The proxy server is dedeicated se3rver that sits between the internet, thre prozy server will determine if connection request is safe.
 The proxy serever is a public IP address from malicious actors on internet and adds a layer of security.
