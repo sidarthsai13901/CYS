@@ -37,9 +37,10 @@ A proxy server use temprorary memory to stroe data that's regulary requested by 
       to exteral parties.
       An email proxy serve is another valuable security tool. It Filets spam email by verifiying whether a sender's adress was forged.
       This reduce the risk of phsihing attacks that impersonate people known to the organization.
+      
 
 WireGuard and IPSec are two different VPN protocols used to encrypt traffic over a secure network tunnel. 
 The majority of VPN providers offer a variety of options for VPN protocols, such as WireGuard or IPSec. Ultimately, choosing between IPSec and WireGuard depends on many factors, including connection speeds, compatibility with existing network infrastructure, and business or individual needs.
  
 
-  ds
+Knowing how to identify potentially malicious traffic on a network can help cybersecurity analysts assess security risks on a network and reinforce network security.
